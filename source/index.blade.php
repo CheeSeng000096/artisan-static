@@ -13,7 +13,7 @@
         <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
     </a>
 
-    <h2 id="test">Asset Compilation Test</h2>
+    <h2 id="test">Asset Compilation Test by cs</h2>
 
     <p>CSS test: <span class="test-css">text with blue border</span></p>
 
